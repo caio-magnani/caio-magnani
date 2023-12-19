@@ -1,4 +1,6 @@
 ### Hi there 👋
+### Contatos
+**Email** - [caio.magnani@outlook.com.br](mailto:caio.magnani@outlook.com.br)
 
 <!--
 **caio-magnani/caio-magnani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
